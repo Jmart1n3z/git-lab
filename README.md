@@ -1,1 +1,2 @@
-# Lab 06: Git
+partner A: Juan 
+Partner B: Ahmad
