@@ -5,3 +5,6 @@ I did not create a new commit, just edited the previous one.
 ## Card 2
 The wrong file was added to the branch. I deleted the file so it no longer was in the branch.
 The file was not in the branch anymore
+## Card 3
+The difference between each one was that using --soft kept the file staged, no flag made the file
+unstaged, and --hard deleted the file 
